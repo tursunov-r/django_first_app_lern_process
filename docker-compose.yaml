@@ -1,27 +1,25 @@
-version: "3.9"
-
 services:
-  app:
-    build:
-      dockerfile: ./Dockerfile
-    command:
-      - gunicorn
-      - mysite.wsgi:application
-      - --bind
-      - 0.0.0.0:8000
+  web:
+    build: .
+    container_name: web
+    command: python manage.py runserver 0.0.0.0:8000
     ports:
-      - "8000:8000" # порт справа для виртуальной машины, порт слева для хоста.
-    restart: always
-    logging:
-      driver: "json-file"
-      options:
-        max-file: "10"
-        max-size: "200k"
+      - "8000:8000"
     volumes:
-      - ./mysite/db:/app/db
-
+      - .:/app
     env_file:
       - .env
+
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./mysite/staticfiles:/var/www/static
+      - ./mysite/uploads:/var/www/media
+    depends_on:
+      - web
 
   grafana:
     image: grafana/grafana:9.2.15
