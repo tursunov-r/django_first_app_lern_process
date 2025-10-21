@@ -5,17 +5,24 @@ services:
     build:
       dockerfile: ./Dockerfile
     command:
-      - "python"
-      - "manage.py"
-      - "runserver"
-      - "0.0.0.0:8000"
+      - gunicorn
+      - mysite.wsgi:application
+      - --bind
+      - 0.0.0.0:8000
     ports:
       - "8000:8000" # порт справа для виртуальной машины, порт слева для хоста.
+    restart: always
     logging:
-      driver: loki
+      driver: "json-file"
       options:
-        loki-url: http://localhost:3100/loki/api/v1/push
-#        loki-url: http://host.loki.intarnal:3100/loki/api/v1/push
+        max-file: "10"
+        max-size: "200k"
+    volumes:
+      - ./mysite/db:/app/db
+
+    env_file:
+      - .env
+
   grafana:
     image: grafana/grafana:9.2.15
     environment:
