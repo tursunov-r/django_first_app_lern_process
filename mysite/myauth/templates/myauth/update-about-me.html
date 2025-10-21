@@ -1,0 +1,33 @@
+{% extends 'myauth/base.html' %}
+{% load static %}
+
+{% block title %}Update about me{% endblock %}
+
+{% block body %}
+    <h1>User info</h1>
+
+    {% if user.is_authenticated %}
+        <h2>Profile Details</h2>
+        <h3>Current Avatar:</h3>
+        {% if user.profile.avatar %}
+            <img src="{{ user.profile.avatar.url }}" alt="avatar" width="200" height="200">
+        {% else %}
+            <img src="{% static 'images/anonim.png' %}" alt="anonim" width="200" height="200">
+        {% endif %}
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+
+            <div>
+                <label for="id_avatar">Avatar:</label><br>
+                <input type="file" name="avatar" id="id_avatar">
+            </div>
+            <button type="submit">Save</button>
+            <div>
+                <a href="{% url 'myauth:about-me' %}">back to about me</a>
+            </div>
+        </form>
+    {% else %}
+        <h2>User is anonymous</h2>
+    {% endif %}
+
+{% endblock %}

@@ -1,0 +1,27 @@
+{% extends 'myauth/base.html' %}
+{% load static %}
+{% block title %}Profile of {{ user_obj.username }}{% endblock %}
+
+{% block body %}
+    <h1>{{ user_obj.username }}'s Profile</h1>
+
+    {% if user_obj.profile.avatar %}
+        <img src="{{ user_obj.profile.avatar.url }}" width="200" height="200">
+    {% else %}
+        <img src="{% static 'images/anonim.png' %}" width="200" height="200">
+    {% endif %}
+
+    <p>First name: {{ user_obj.first_name }}</p>
+    <p>Last name: {{ user_obj.last_name }}</p>
+    <p>Email: {{ user_obj.email }}</p>
+    <p>Bio: {{ user_obj.profile.bio }}</p>
+
+    {% if user.is_staff or user == user_obj %}
+        <div>
+            <a href="{% url 'myauth:user-avatar-update' user_obj.pk %}">Change Avatar</a>
+        </div>
+    {% endif %}
+    <div>
+        <a href="{% url 'myauth:user-list' %}">Back to Users</a>
+    </div>
+{% endblock %}

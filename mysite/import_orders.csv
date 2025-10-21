@@ -1,0 +1,4 @@
+user_id,delivery_address,promocode,product_ids
+1,Москва,SALE10,"1,2,3"
+2,Сеул,,"4,5"
+3,Токио,NEWUSER,"6"

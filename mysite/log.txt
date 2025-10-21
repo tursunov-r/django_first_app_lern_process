@@ -1,0 +1,1772 @@
+django.utils.autoreload INFO 2025-10-13 13:37:08,295 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 13:37:08,541 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:46:42,962 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 13:46:43,166 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:46:58,530 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 13:46:58,700 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:46:59,874 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 13:47:00,022 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:47:18,433 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 13:47:18,619 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:49:26,630 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 13:49:26,826 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:49:35,110 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 13:49:35,248 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:51:01,293 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:51:29,792 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 13:51:29,953 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:51:35,978 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 13:54:47,908 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 14:24:55,404 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 14:25:56,333 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 14:26:04,835 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-13 14:27:03,733 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-13 14:27:04,032 autoreload Watching for file changes with StatReloader 
+shopapp.views DEBUG 2025-10-13 14:27:10,389 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-13 14:27:10,389 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-13 14:28:02,069 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-13 14:28:02,071 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/uploads into JSON 
+django.utils.autoreload INFO 2025-10-13 16:39:31,481 autoreload Watching for file changes with StatReloader 
+shopapp.views DEBUG 2025-10-13 16:39:35,704 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-13 16:39:35,705 views Shop index page with basic product list 
+django.utils.autoreload INFO 2025-10-14 13:55:54,030 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-14 13:55:55,610 log Not Found: /ru/shop/products/expoert 
+django.utils.autoreload INFO 2025-10-14 13:57:18,698 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-14 13:57:18,959 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-14 13:57:36,599 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-14 13:57:36,881 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-14 13:58:00,674 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-14 13:58:00,945 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-14 14:09:51,220 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-14 14:09:51,517 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-14 14:11:00,004 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-14 14:11:00,236 autoreload Watching for file changes with StatReloader 
+urllib3.connectionpool DEBUG 2025-10-14 14:11:08,793 connectionpool Starting new HTTPS connection (1): o4510188230279168.ingest.de.sentry.io:443 
+django.request ERROR 2025-10-14 14:11:08,812 log Internal Server Error: /ru/shop/products/export/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/sentry_sdk/integrations/django/views.py", line 94, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/views/generic/base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/shopapp/views.py", line 244, in get
+    name = elem["nmae"]
+           ~~~~^^^^^^^^
+KeyError: 'nmae'
+urllib3.connectionpool DEBUG 2025-10-14 14:11:09,011 connectionpool https://o4510188230279168.ingest.de.sentry.io:443 "POST /api/4510188232769616/envelope/ HTTP/1.1" 200 0 
+urllib3.connectionpool DEBUG 2025-10-14 14:12:08,942 connectionpool https://o4510188230279168.ingest.de.sentry.io:443 "POST /api/4510188232769616/envelope/ HTTP/1.1" 200 0 
+django.utils.autoreload INFO 2025-10-14 14:13:43,537 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/logging/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-14 14:13:43,789 autoreload Watching for file changes with StatReloader 
+urllib3.connectionpool DEBUG 2025-10-14 14:14:47,824 connectionpool Starting new HTTPS connection (1): o4510188230279168.ingest.de.sentry.io:443 
+urllib3.connectionpool DEBUG 2025-10-14 14:14:48,011 connectionpool https://o4510188230279168.ingest.de.sentry.io:443 "POST /api/4510188232769616/envelope/ HTTP/1.1" 200 0 
+django.utils.autoreload INFO 2025-10-15 13:32:52,906 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-15 13:32:57,195 log Not Found: / 
+django.request WARNING 2025-10-15 13:32:57,280 log Not Found: /favicon.ico 
+django.utils.autoreload INFO 2025-10-16 10:52:11,039 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 10:52:11,656 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 10:52:26,307 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 10:52:26,486 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-16 10:52:42,535 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/product_change_list.html
+django.request ERROR 2025-10-16 10:54:00,843 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/product_change_list.html
+django.utils.autoreload INFO 2025-10-16 10:56:03,076 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 10:56:03,279 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-16 10:56:05,333 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/product_changelist.html
+django.utils.autoreload INFO 2025-10-16 10:56:21,913 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 10:56:22,094 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-16 10:56:22,444 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products_changelist.html
+django.utils.autoreload INFO 2025-10-16 10:57:22,792 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 10:57:22,998 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-16 10:57:24,792 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products-changelist.html
+django.request ERROR 2025-10-16 10:57:47,057 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products-changelist.html
+django.request ERROR 2025-10-16 10:58:07,574 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products-changelist.html
+django.request ERROR 2025-10-16 11:01:14,170 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products-changelist.html
+django.utils.autoreload INFO 2025-10-16 11:03:13,267 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 11:03:13,458 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 11:03:15,614 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 11:03:15,828 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-16 11:03:17,674 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products-changelist.html
+django.request ERROR 2025-10-16 11:08:30,423 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products-changelist.html
+django.request ERROR 2025-10-16 11:12:05,567 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products-changelist.html
+django.utils.autoreload INFO 2025-10-16 11:12:35,127 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-16 11:55:19,971 log Internal Server Error: /ru/admin/shopapp/product/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/products-changelist.html
+django.utils.autoreload INFO 2025-10-16 14:02:42,143 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:02:42,432 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:03:21,583 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:03:21,779 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:03:39,132 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:03:39,336 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:03:52,682 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:03:52,864 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:04:09,401 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:04:09,586 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:04:23,911 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:04:24,095 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:04:36,409 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:04:36,589 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:04:52,088 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:04:52,293 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:05:09,863 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:05:10,045 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:05:18,338 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:05:18,531 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:05:35,057 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:05:35,269 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:05:49,797 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:05:50,217 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:06:15,164 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:06:15,374 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:06:29,781 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:06:29,966 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:06:34,151 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:06:34,374 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:06:42,711 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:06:42,912 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:07:08,652 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:07:08,834 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:07:24,330 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:07:24,540 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:07:36,959 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:07:37,161 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:07:48,538 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:07:48,804 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:08:04,134 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:08:04,388 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:08:11,765 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:08:12,065 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:08:34,772 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:08:34,967 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:08:55,671 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:08:55,909 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:09:04,283 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:09:04,462 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:09:10,704 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:09:10,966 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:09:21,233 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:09:21,445 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:09:42,105 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:09:42,462 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:09:49,745 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:09:49,959 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:14:21,072 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:14:21,361 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:15:05,668 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:15:05,903 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:15:41,030 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:15:41,236 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:15:52,569 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:15:52,748 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:16:10,244 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:16:10,459 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:16:26,913 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:16:27,120 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:16:37,432 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:16:37,624 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:18:39,918 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:18:40,141 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:18:47,433 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:18:47,629 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:19:02,084 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:19:02,289 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:19:18,843 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:19:19,053 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:19:47,904 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:19:48,113 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:19:56,429 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:19:56,639 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:20:14,236 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:20:14,420 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:20:25,854 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:20:26,041 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:20:34,318 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:20:34,491 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:21:31,182 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:21:31,426 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:22:05,466 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:22:05,672 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:22:29,445 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:22:29,653 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:22:47,254 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:22:47,476 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:22:52,678 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:22:52,904 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:23:07,401 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:23:07,617 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:23:35,365 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:23:35,561 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:23:44,934 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:23:45,127 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:23:59,544 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:23:59,739 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:25:03,370 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:25:03,616 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:25:35,586 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:25:35,776 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:32:28,019 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:32:28,456 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:32:38,772 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:32:38,968 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:33:19,649 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:33:19,819 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:33:29,084 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:33:29,265 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:33:49,986 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:33:50,227 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:34:14,002 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:34:14,305 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:34:54,470 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:34:54,663 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:35:18,102 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:35:18,329 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:36:14,934 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:36:15,158 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:36:28,600 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:36:28,831 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:36:55,883 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:36:56,111 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:38:05,191 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:38:05,450 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:48:58,084 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/command.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:48:58,407 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-16 14:49:21,095 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:49:21,265 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-16 14:49:27,133 log Method Not Allowed: /ru/shop/api/products/upload_csv/ 
+django.utils.autoreload INFO 2025-10-16 14:51:52,107 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:51:52,394 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-16 14:51:58,317 log Internal Server Error: /ru/shop/api/products/upload_csv/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/utils/datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py", line 83, in upload_csv
+    file=request.FILES["file"].file, encoding=request.encoding
+         ~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/utils/datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'file'
+django.utils.autoreload INFO 2025-10-16 14:52:17,251 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:52:17,454 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-16 14:52:19,475 log Internal Server Error: /ru/shop/api/products/upload_csv/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/utils/datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py", line 83, in upload_csv
+    file=request.FILES["file"].file, encoding=request.encoding
+         ~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/utils/datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'file'
+django.utils.autoreload INFO 2025-10-16 14:52:25,781 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-16 14:52:26,103 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-16 14:52:27,530 log Method Not Allowed: /ru/shop/api/products/upload_csv/ 
+django.utils.autoreload INFO 2025-10-19 12:30:08,200 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-19 12:30:09,897 log Not Found: / 
+django.request WARNING 2025-10-19 12:30:09,992 log Not Found: /favicon.ico 
+django.request ERROR 2025-10-19 12:30:41,873 log Internal Server Error: /ru/blog/news/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/articlenews_list.html
+django.utils.autoreload INFO 2025-10-19 12:41:00,417 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 12:41:00,740 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 12:41:17,280 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 12:41:17,543 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 12:41:29,856 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 12:41:30,210 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 12:41:41,595 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 12:41:41,920 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 12:41:45,120 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 12:41:45,337 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 12:42:06,946 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 12:42:07,136 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 12:42:32,765 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 12:42:33,065 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 13:23:57,144 log Internal Server Error: /ru/blog/news/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article-news' with keyword arguments '{'pk': 1}' not found. 1 pattern(s) tried: ['ru/blog/news/\\Z']
+django.request ERROR 2025-10-19 13:26:10,476 log Internal Server Error: /ru/blog/news/1/detail/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/articlenews_detail.html
+django.utils.autoreload INFO 2025-10-19 14:10:18,039 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:10:18,364 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:13:38,387 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:13:38,661 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:13:43,864 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:13:44,091 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:13:51,342 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:13:51,584 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:14:22,371 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:14:22,651 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:14:46,313 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:14:46,617 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:14:49,771 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:14:49,953 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:15:01,302 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:15:01,477 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:15:15,996 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:15:16,285 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:15:25,646 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:15:25,843 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:15:42,379 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:15:42,666 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:15:47,923 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:15:48,140 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:15:56,428 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:15:56,638 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:16:04,969 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:16:05,174 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:16:31,009 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:16:31,217 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:17:03,211 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:17:03,518 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:17:11,850 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:17:12,165 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:17:20,470 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:17:20,744 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:17:59,002 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:17:59,327 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:18:07,648 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:18:07,923 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:18:20,320 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:18:20,511 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:18:43,282 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:18:43,493 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:19:00,072 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:19:00,295 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:19:18,937 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:19:19,236 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:19:27,509 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:19:27,775 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:19:37,188 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:19:37,380 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:19:42,615 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:19:42,807 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:19:52,213 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:19:52,553 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:19:59,841 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:20:00,031 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:20:16,543 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:20:16,730 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:20:48,697 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:20:48,980 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:20:59,310 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:20:59,584 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:21:07,919 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:21:08,186 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 14:24:01,561 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ~~~~~~~~~~~~~~^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/utils/functional.py", line 187, in __wrapper__
+    result = func(*self._args, **self._kw)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'articles-news' not found. 'articles-news' is not a valid view function or pattern name.
+django.utils.autoreload INFO 2025-10-19 14:25:43,488 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:25:43,790 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 14:25:46,169 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ~~~~~~~~~~~~~~^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/utils/functional.py", line 187, in __wrapper__
+    result = func(*self._args, **self._kw)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'articlesnews_list' not found. 'articlesnews_list' is not a valid view function or pattern name.
+django.utils.autoreload INFO 2025-10-19 14:26:05,642 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:26:05,919 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 14:26:07,768 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ~~~~~~~~~~~~~~^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/utils/functional.py", line 187, in __wrapper__
+    result = func(*self._args, **self._kw)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article' not found. 'article' is not a valid view function or pattern name.
+django.utils.autoreload INFO 2025-10-19 14:26:58,605 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:26:58,899 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 14:26:59,952 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 181, in get_feed
+    for item in self._get_dynamic_attr("items", obj):
+                ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 105, in _get_dynamic_attr
+    return attr()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py", line 24, in items
+    return Article.objects.order_by("-published_at")[:5]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/query.py", line 1718, in order_by
+    obj.query.add_ordering(*field_names)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 2288, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1802, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'published_at' into field. Choices are: author, author_id, category, category_id, content, id, pub_date, tags, title
+django.request ERROR 2025-10-19 14:29:10,947 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 181, in get_feed
+    for item in self._get_dynamic_attr("items", obj):
+                ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 105, in _get_dynamic_attr
+    return attr()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py", line 24, in items
+    return Article.objects.order_by("-published_at")[:5]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/query.py", line 1718, in order_by
+    obj.query.add_ordering(*field_names)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 2288, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1802, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'published_at' into field. Choices are: author, author_id, category, category_id, content, id, pub_date, tags, title
+django.utils.autoreload INFO 2025-10-19 14:30:18,805 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:30:19,120 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 14:30:23,562 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 181, in get_feed
+    for item in self._get_dynamic_attr("items", obj):
+                ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 105, in _get_dynamic_attr
+    return attr()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py", line 24, in items
+    return Article.objects.order_by("-published_at")[:5]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/query.py", line 1718, in order_by
+    obj.query.add_ordering(*field_names)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 2288, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1802, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'published_at' into field. Choices are: author, author_id, category, category_id, content, id, pub_date, tags, title
+django.request ERROR 2025-10-19 14:30:24,577 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 181, in get_feed
+    for item in self._get_dynamic_attr("items", obj):
+                ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 105, in _get_dynamic_attr
+    return attr()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py", line 24, in items
+    return Article.objects.order_by("-published_at")[:5]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/query.py", line 1718, in order_by
+    obj.query.add_ordering(*field_names)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 2288, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1802, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'published_at' into field. Choices are: author, author_id, category, category_id, content, id, pub_date, tags, title
+django.request ERROR 2025-10-19 14:30:54,251 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 181, in get_feed
+    for item in self._get_dynamic_attr("items", obj):
+                ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 105, in _get_dynamic_attr
+    return attr()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py", line 24, in items
+    return Article.objects.order_by("-published_at")[:5]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/query.py", line 1718, in order_by
+    obj.query.add_ordering(*field_names)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 2288, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1802, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'published_at' into field. Choices are: author, author_id, category, category_id, content, id, pub_date, tags, title
+django.utils.autoreload INFO 2025-10-19 14:31:05,647 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:31:05,956 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 14:31:06,869 log Internal Server Error: /ru/blog/news/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 195, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py", line 33, in item_link
+    return reverse("blogapp:article-news", kwargs={"pk": item.pk})
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article-news' with keyword arguments '{'pk': 1}' not found. 1 pattern(s) tried: ['ru/blog/news/\\Z']
+django.utils.autoreload INFO 2025-10-19 14:32:52,166 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:32:52,473 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:41:10,117 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/models.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:41:10,388 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:41:18,663 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/models.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:41:18,879 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:41:24,111 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/models.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:41:24,323 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:41:49,073 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/models.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:41:49,296 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:42:32,657 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/blogapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:42:32,989 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:45:44,392 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:45:44,717 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:45:50,918 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:45:51,193 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:45:59,470 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:45:59,731 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:46:36,800 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:46:37,103 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:46:51,607 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:46:51,867 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:47:23,828 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:47:24,124 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:47:52,006 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:47:52,308 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:49:12,566 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/sitemaps.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:49:12,841 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:49:48,865 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/sitemaps.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:49:49,061 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:50:07,563 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/sitemaps.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:50:07,728 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:50:22,150 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/sitemaps.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:50:22,327 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-19 14:50:53,213 log Not Found: /sitemap.xml 
+django.utils.autoreload INFO 2025-10-19 14:51:41,790 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:51:42,029 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:51:50,305 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:51:50,554 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-19 14:51:53,715 log Not Found: /sitemap.xml 
+django.request WARNING 2025-10-19 14:52:03,802 log Not Found: /ru/sitemap.xml 
+django.utils.autoreload INFO 2025-10-19 14:52:19,516 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:52:19,798 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-19 14:52:31,675 log Not Found: /sitemaps.xml 
+django.request WARNING 2025-10-19 14:52:37,341 log Not Found: /sitemap.xml 
+django.utils.autoreload INFO 2025-10-19 14:52:58,094 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:52:58,329 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:52:59,489 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:52:59,663 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-19 14:53:00,068 store The debug toolbar can't serialize <class 'blogapp.sitemap.BlogSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 14:53:00,069 store The debug toolbar can't serialize <class 'blogapp.sitemap.BlogSitemap'> into JSON 
+django.utils.autoreload INFO 2025-10-19 14:55:15,811 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/models.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:55:16,163 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 14:56:12,858 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/models.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 14:56:13,139 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:00:01,150 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/mysite/sitemaps.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:00:01,440 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:04:42,997 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:04:43,305 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:05:10,146 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:05:10,387 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:05:30,038 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:05:30,239 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 15:05:46,815 log Internal Server Error: /sitemap.xml 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/__init__.py", line 104, in get_urls
+    return self._urls(page, protocol, domain)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/__init__.py", line 122, in _urls
+    paginator_page = self.paginator.page(page)
+                     ^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/__init__.py", line 73, in paginator
+    return paginator.Paginator(self._items(), self.limit)
+                               ~~~~~~~~~~~^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/__init__.py", line 61, in _items
+    return self.items()
+           ~~~~~~~~~~^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/sitemap.py", line 10, in items
+    return Product.objects.filter(is_active=False).order_by("-created_at")
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/query.py", line 1491, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/query.py", line 1509, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/query.py", line 1516, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1643, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1675, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1523, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1330, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/db/models/sql/query.py", line 1802, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_active' into field. Choices are: archived, created_at, description, discount, id, images, name, orders, preview, price
+debug_toolbar.store DEBUG 2025-10-19 15:05:46,843 store The debug toolbar can't serialize <class 'blogapp.sitemap.BlogSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:05:46,843 store The debug toolbar can't serialize <class 'shopapp.sitemap.ProductSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:05:46,843 store The debug toolbar can't serialize <class 'blogapp.sitemap.BlogSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:05:46,843 store The debug toolbar can't serialize <class 'shopapp.sitemap.ProductSitemap'> into JSON 
+django.utils.autoreload INFO 2025-10-19 15:06:18,805 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/sitemap.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:06:19,090 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 15:06:20,009 log Internal Server Error: /sitemap.xml 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/__init__.py", line 104, in get_urls
+    return self._urls(page, protocol, domain)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    lastmod = self._get("lastmod", item)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/sitemap.py", line 13, in lastmod
+    return obj.date
+           ^^^^^^^^
+AttributeError: 'Product' object has no attribute 'date'
+debug_toolbar.store DEBUG 2025-10-19 15:06:20,028 store The debug toolbar can't serialize <class 'blogapp.sitemap.BlogSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:06:20,028 store The debug toolbar can't serialize <class 'shopapp.sitemap.ProductSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:06:20,028 store The debug toolbar can't serialize <class 'blogapp.sitemap.BlogSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:06:20,028 store The debug toolbar can't serialize <class 'shopapp.sitemap.ProductSitemap'> into JSON 
+django.utils.autoreload INFO 2025-10-19 15:06:54,198 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/sitemap.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:06:54,498 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-19 15:06:55,039 store The debug toolbar can't serialize <class 'blogapp.sitemap.BlogSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:06:55,039 store The debug toolbar can't serialize <class 'shopapp.sitemap.ProductSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:06:55,040 store The debug toolbar can't serialize <class 'blogapp.sitemap.BlogSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:06:55,040 store The debug toolbar can't serialize <class 'shopapp.sitemap.ProductSitemap'> into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:07:31,381 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:07:31,381 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:07:31,391 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-19 15:07:31,391 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/uploads into JSON 
+django.request ERROR 2025-10-19 15:07:31,390 log Internal Server Error: /media/products/product5/preview/Без_названия.png 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/middleware.py", line 137, in __call__
+    response = toolbar.process_request(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/timer.py", line 65, in process_request
+    return super().process_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/headers.py", line 48, in process_request
+    return super().process_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  [Previous line repeated 5 more times]
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/profiling.py", line 163, in process_request
+    return self.profiler.runcall(super().process_request, request)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/cProfile.py", line 111, in runcall
+    self.enable()
+    ~~~~~~~~~~~^^
+ValueError: Another profiling tool is already active
+debug_toolbar.store DEBUG 2025-10-19 15:07:31,414 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/uploads into JSON 
+django.request ERROR 2025-10-19 15:07:31,413 log Internal Server Error: /media/products/productNone/preview/Без_названия.png 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/middleware.py", line 137, in __call__
+    response = toolbar.process_request(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/timer.py", line 65, in process_request
+    return super().process_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/headers.py", line 48, in process_request
+    return super().process_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  [Previous line repeated 5 more times]
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/profiling.py", line 163, in process_request
+    return self.profiler.runcall(super().process_request, request)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/cProfile.py", line 111, in runcall
+    self.enable()
+    ~~~~~~~~~~~^^
+ValueError: Another profiling tool is already active
+debug_toolbar.store DEBUG 2025-10-19 15:07:31,415 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/uploads into JSON 
+django.request WARNING 2025-10-19 15:07:40,705 log Not Found: /ru/shop/products/latest/feed 
+django.utils.autoreload INFO 2025-10-19 15:08:25,188 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:08:25,510 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:08:49,225 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:08:49,496 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:09:49,038 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:09:49,345 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:11:59,726 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:12:00,028 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:12:02,249 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:12:02,459 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 15:12:02,664 log Internal Server Error: /ru/shop/products/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 181, in get_feed
+    for item in self._get_dynamic_attr("items", obj):
+                ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+django.request ERROR 2025-10-19 15:12:23,429 log Internal Server Error: /ru/shop/products/latest/feed/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/contrib/syndication/views.py", line 181, in get_feed
+    for item in self._get_dynamic_attr("items", obj):
+                ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+django.utils.autoreload INFO 2025-10-19 15:14:18,454 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:14:18,749 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:22:27,042 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:22:27,446 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:23:28,386 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:23:28,667 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:29:43,499 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:29:43,955 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-19 15:30:02,630 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:30:02,899 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-19 15:31:34,886 log Internal Server Error: /ru/admin/shopapp/order/import-orders-csv/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py", line 140, in import_csv
+    reader = csv.DictReader(decoded_file)
+             ^^^
+NameError: name 'csv' is not defined. Did you forget to import 'csv'?
+django.utils.autoreload INFO 2025-10-19 15:33:04,292 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/import_export/mysite/shopapp/admin.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-19 15:33:04,578 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:20:00,459 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-20 14:20:06,428 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x103aff390> into JSON 
+django.request WARNING 2025-10-20 14:20:06,442 log Not Found: / 
+debug_toolbar.store DEBUG 2025-10-20 14:20:06,530 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+django.request WARNING 2025-10-20 14:20:06,537 log Not Found: /favicon.ico 
+debug_toolbar.store DEBUG 2025-10-20 14:20:11,976 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+shopapp.views DEBUG 2025-10-20 14:20:11,989 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:20:11,989 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:20:11,999 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:37,055 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:37,055 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:37,593 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:37,593 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:38,012 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:38,013 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:38,389 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:38,389 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:38,632 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:38,632 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:38,924 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:38,924 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:39,166 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:39,167 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:39,393 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:39,393 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:39,568 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:20:39,568 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x104103d90> into JSON 
+django.utils.autoreload INFO 2025-10-20 14:22:41,485 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:22:41,805 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:22:49,167 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:22:49,440 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:24:01,431 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/myauth/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:24:01,746 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:25:09,822 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:25:10,113 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:27:02,582 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/myauth/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:27:02,865 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:27:17,310 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/myauth/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:27:17,622 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:27:35,100 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/myauth/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:27:35,374 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:27:46,671 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/myauth/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:27:46,961 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:27:51,276 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/myauth/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:27:51,451 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-20 14:27:53,378 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:53,378 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:53,378 store The debug toolbar can't serialize <HttpResponse status_code=200, "text/html; charset=utf-8"> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:53,379 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:54,022 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:54,022 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:54,599 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:54,600 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:55,055 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:55,055 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:55,462 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:55,462 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:55,781 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:55,781 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:56,140 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:56,141 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:56,455 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:56,456 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:56,757 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:56,757 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:57,064 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:57,065 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:57,341 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:57,341 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:57,701 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:57,702 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:58,021 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:58,021 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:58,356 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:58,356 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:58,670 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:58,670 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:59,000 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:59,000 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:59,257 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:59,257 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:59,563 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:27:59,563 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1081ff610> into JSON 
+django.utils.autoreload INFO 2025-10-20 14:29:09,886 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/myauth/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:29:10,200 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:30:02,642 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:30:02,841 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:30:49,156 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:30:49,339 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:31:15,051 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:31:15,239 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:31:32,796 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:31:32,984 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:32:11,125 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:32:11,409 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:32:21,764 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:32:21,966 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:33:25,895 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:33:26,067 autoreload Watching for file changes with StatReloader 
+shopapp.views DEBUG 2025-10-20 14:33:31,981 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:33:31,982 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:33:31,991 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:31,992 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:31,992 store The debug toolbar can't serialize <HttpResponse status_code=200, "text/html; charset=utf-8"> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:31,992 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:34,203 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:34,203 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:34,731 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:34,731 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:35,212 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:33:35,212 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10913f890> into JSON 
+django.utils.autoreload INFO 2025-10-20 14:37:16,057 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:37:16,343 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:37:23,611 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:37:23,835 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:37:38,227 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:37:38,409 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:37:45,707 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:37:45,922 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:37:57,348 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:37:57,550 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:38:43,878 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:38:44,166 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:38:59,630 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:38:59,957 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:39:09,265 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:39:09,519 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:39:21,887 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:39:22,182 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:40:09,625 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:40:09,903 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-20 14:40:24,888 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1061a74d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:40:24,888 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1061a74d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:40:24,888 store The debug toolbar can't serialize <Response status_code=200, "text/html; charset=utf-8"> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:40:24,888 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1061a74d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:41:03,747 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x106563250> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:41:03,747 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x106563250> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:41:04,647 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x106563250> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:41:04,648 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x106563250> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:41:05,323 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x106563250> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:41:05,323 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x106563250> into JSON 
+django.utils.autoreload INFO 2025-10-20 14:41:17,165 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:41:17,390 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:42:28,537 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:42:28,738 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:44:02,253 autoreload Watching for file changes with StatReloader 
+shopapp.views DEBUG 2025-10-20 14:44:05,169 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:44:05,169 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:44:05,181 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x105c63610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:44:05,181 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x105c63610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:44:05,181 store The debug toolbar can't serialize <HttpResponse status_code=200, "text/html; charset=utf-8"> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:44:05,182 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x105c63610> into JSON 
+django.utils.autoreload INFO 2025-10-20 14:44:47,641 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:44:47,853 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 14:45:58,049 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 14:45:58,350 autoreload Watching for file changes with StatReloader 
+shopapp.views DEBUG 2025-10-20 14:47:28,742 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:47:28,743 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:47:28,799 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:47:28,799 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:47:30,716 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:47:30,717 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:47:30,727 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:47:31,320 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:47:31,320 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:47:31,338 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:47:33,266 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:47:33,267 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:47:33,276 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:48:36,265 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:48:36,267 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:48:36,283 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:48:40,901 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:48:40,901 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:48:40,915 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:48:47,892 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:48:47,893 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:48:47,904 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:48:48,902 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:48:48,903 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:48:48,917 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:48:50,935 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:48:50,935 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:48:50,946 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x107b747d0> into JSON 
+django.utils.autoreload INFO 2025-10-20 14:49:06,528 autoreload Watching for file changes with StatReloader 
+shopapp.views DEBUG 2025-10-20 14:49:08,764 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:49:08,764 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:49:08,810 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047587d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:49:09,587 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:49:09,587 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:49:09,606 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047587d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:49:09,606 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047587d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:49:17,114 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:49:17,115 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:49:17,133 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047587d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:49:19,188 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:49:19,188 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:49:19,203 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047587d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:49:21,201 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:49:21,202 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:49:21,217 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047587d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:49:21,217 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047587d0> into JSON 
+shopapp.views DEBUG 2025-10-20 14:49:22,377 views Products for shop index: [('Laptop', 1999), ('Desktop', 2999), ('Smartphone', 999)] 
+shopapp.views INFO 2025-10-20 14:49:22,377 views Shop index page with basic product list 
+debug_toolbar.store DEBUG 2025-10-20 14:49:22,389 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047587d0> into JSON 
+django.request WARNING 2025-10-20 14:51:29,065 log Not Found: /ru/myauth/aboutme 
+debug_toolbar.store DEBUG 2025-10-20 14:51:42,580 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 14:51:42,581 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:06:16,479 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:06:16,479 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:06:20,425 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:06:21,480 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:06:22,117 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:06:22,597 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:06:43,454 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:06:43,454 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:29,213 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:29,213 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:30,080 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:30,526 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:30,903 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:31,275 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:31,655 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:32,016 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:32,304 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:32,631 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:08:32,954 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1047591d0> into JSON 
+django.utils.autoreload INFO 2025-10-20 15:15:43,882 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:15:44,177 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:16:01,821 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:16:02,019 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:16:16,505 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:16:16,793 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:16:35,412 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:16:35,596 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:16:50,096 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:16:50,313 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:17:08,894 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:17:09,089 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:17:45,095 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:17:45,280 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:17:58,636 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:17:58,846 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:19:03,742 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:19:04,032 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:19:45,423 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:19:45,631 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:19:49,838 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:19:50,047 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:19:55,256 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:19:55,455 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:20:05,835 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:20:06,034 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:22:38,133 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:22:38,325 autoreload Watching for file changes with StatReloader 
+django.request WARNING 2025-10-20 15:23:42,312 log Not Found: /ru/users/1/orders 
+django.request ERROR 2025-10-20 15:23:55,536 log Internal Server Error: /ru/shop/users/1/orders 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'order_detail' not found. 'order_detail' is not a valid view function or pattern name.
+django.utils.autoreload INFO 2025-10-20 15:29:05,709 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:29:06,016 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:29:52,375 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:29:52,647 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:30:07,124 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:30:07,391 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:30:32,144 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:30:32,364 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:30:58,114 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:30:58,317 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:31:27,167 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:31:27,355 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:31:31,581 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:31:31,809 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:32:00,697 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/serializers.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:32:00,959 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:32:17,539 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/serializers.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:32:17,735 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:33:06,174 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:33:06,352 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:33:08,520 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:33:08,730 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-20 15:33:26,717 log Internal Server Error: /ru/shop/users/1/orders 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/templatetags/cache.py", line 53, in render
+    value = self.nodelist.render(context)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 327, in render
+    return nodelist.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 243, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/base.py", line 977, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/template/defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'order_detail' not found. 'order_detail' is not a valid view function or pattern name.
+debug_toolbar.store DEBUG 2025-10-20 15:33:26,728 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1083d8550> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:33:48,107 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1083d8550> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:33:48,107 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1083d8550> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:33:53,381 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1083da350> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:33:53,381 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1083da350> into JSON 
+django.utils.autoreload INFO 2025-10-20 15:35:20,667 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:35:20,934 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-20 15:35:26,347 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x110f44e10> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:35:26,348 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x110f44e10> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:35:30,138 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x110f44e10> into JSON 
+django.utils.autoreload INFO 2025-10-20 15:37:10,035 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:37:10,306 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-20 15:39:39,158 log Internal Server Error: /ru/shop/users/1/orders/export/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py", line 77, in export_user_orders
+    "updated_at": order.updated_at.isoformat(),
+                  ^^^^^^^^^^^^^^^^
+AttributeError: 'Order' object has no attribute 'updated_at'. Did you mean: 'created_at'?
+debug_toolbar.store DEBUG 2025-10-20 15:39:39,165 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x1039cbc50> into JSON 
+django.utils.autoreload INFO 2025-10-20 15:40:29,142 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:40:29,425 autoreload Watching for file changes with StatReloader 
+django.request ERROR 2025-10-20 15:40:31,593 log Internal Server Error: /ru/shop/users/1/orders/export/ 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py", line 77, in export_user_orders
+    "status": order.status,
+              ^^^^^^^^^^^^
+AttributeError: 'Order' object has no attribute 'status'
+debug_toolbar.store DEBUG 2025-10-20 15:40:31,600 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10376f750> into JSON 
+django.utils.autoreload INFO 2025-10-20 15:40:35,746 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:40:35,942 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-20 15:40:37,017 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x105813610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:40:37,017 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x105813610> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:40:39,305 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x105813610> into JSON 
+django.request WARNING 2025-10-20 15:40:41,762 log Not Found: /ru/shop/users/1/orders/ 
+django.utils.autoreload INFO 2025-10-20 15:41:53,261 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:41:53,475 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-20 15:41:54,596 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10459c690> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:41:54,596 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10459c690> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:42:03,765 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10459c690> into JSON 
+django.utils.autoreload INFO 2025-10-20 15:43:39,723 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:43:40,037 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:44:02,859 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:44:03,176 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:44:13,561 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:44:13,954 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:44:18,236 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:44:18,444 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:44:29,813 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:44:30,030 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:45:23,605 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:45:23,815 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:45:45,361 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:45:45,548 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:46:32,971 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:46:33,171 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:46:41,493 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:46:41,703 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:47:24,943 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:47:25,160 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:47:35,558 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:47:35,763 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:47:48,213 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:47:48,438 autoreload Watching for file changes with StatReloader 
+django.utils.autoreload INFO 2025-10-20 15:47:58,838 autoreload /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading. 
+django.utils.autoreload INFO 2025-10-20 15:47:59,041 autoreload Watching for file changes with StatReloader 
+debug_toolbar.store DEBUG 2025-10-20 15:48:05,066 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:05,068 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:05,068 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:05,070 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+django.request ERROR 2025-10-20 15:48:05,078 log Internal Server Error: /media/products/productNone/preview/51GnLFJ58bL.jpg 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/middleware.py", line 137, in __call__
+    response = toolbar.process_request(request)
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/timer.py", line 65, in process_request
+    return super().process_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/headers.py", line 48, in process_request
+    return super().process_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/__init__.py", line 230, in process_request
+    return self.get_response(request)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  [Previous line repeated 5 more times]
+  File "/Users/deensy/PycharmProjects/skillbox/python_django/.venv/lib/python3.13/site-packages/debug_toolbar/panels/profiling.py", line 163, in process_request
+    return self.profiler.runcall(super().process_request, request)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/cProfile.py", line 111, in runcall
+    self.enable()
+    ~~~~~~~~~~~^^
+ValueError: Another profiling tool is already active
+debug_toolbar.store DEBUG 2025-10-20 15:48:05,086 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:05,087 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:05,087 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:05,089 store The debug toolbar can't serialize /Users/deensy/PycharmProjects/skillbox/python_django/Django_Cache/mysite/uploads into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:07,263 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10499fed0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:07,263 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10499fed0> into JSON 
+debug_toolbar.store DEBUG 2025-10-20 15:48:09,505 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10499fed0> into JSON 

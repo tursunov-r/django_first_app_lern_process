@@ -1,0 +1,29 @@
+{% extends "shopapp/base.html" %}
+{% block title %}
+    Orders List
+{% endblock %}
+{% block body %}
+    <h1>Orders:</h1>
+    {% if object_list %}
+        <div>
+            {% for order in object_list %}
+                <p><a href="{% url "shopapp:order_details" pk=order.pk %}"><p>id: {{ order.id }}:</p></a></p>
+                <p>Order by: {% firstof order.user.first_name order.user.username %}</p>
+                <p>address: {{ order.delivery_address }}</p>
+                <p>Promocode: <code>{{ order.promocode }}</code></p>
+                <p>Date: {{ order.created_at }}</p>
+                <p>Products in order:</p>
+                <ul>
+                    {% for product in order.products.all %}
+                        <li>{{ product.name }} for ${{ product.discount_price }}</li>
+                    {% endfor %}
+                </ul>
+            {% endfor %}
+        </div>
+    {% else %}
+        <h3>There is no orders</h3>
+    {% endif %}
+    <div>
+        <a href={% url 'shopapp:create-order' %}>Create order</a>
+    </div>
+{% endblock %}

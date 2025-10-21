@@ -1,0 +1,33 @@
+{% extends "shopapp/base.html" %}
+{% load cache %}
+
+{% block title %}
+    User orders# {{ owner.username }}
+{% endblock %}
+
+{% block body %}
+    <h1>User orders: {{ owner.username }}</h1>
+
+    {# Не кэшируем информацию о пользователе #}
+    <p>User {% firstof owner.first_name owner.username %} create next orders:</p>
+
+    {# КЭШИРУЕМ список заказов #}
+    {% cache 60 user_orders_list owner.pk %}
+        {% if orders %}
+            <ul>
+                {% for order in orders %}
+                    <li>
+                        <a href="{% url 'shopapp:order_details' pk=order.pk %}">
+                            Order №{{ order.pk }}
+                        </a>
+                        — {{ order.created_at }} ({{ order.products.count }} items)
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>User {% firstof owner.first_name owner.username %} dont has order.</p>
+        {% endif %}
+    {% endcache %}
+
+    <a href="{% url 'shopapp:order_list' %}">Bach to orders list</a>
+{% endblock %}
