@@ -1770,3 +1770,41 @@ debug_toolbar.store DEBUG 2025-10-20 15:48:05,089 store The debug toolbar can't 
 debug_toolbar.store DEBUG 2025-10-20 15:48:07,263 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10499fed0> into JSON 
 debug_toolbar.store DEBUG 2025-10-20 15:48:07,263 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10499fed0> into JSON 
 debug_toolbar.store DEBUG 2025-10-20 15:48:09,505 store The debug toolbar can't serialize <django.core.cache.backends.filebased.FileBasedCache object at 0x10499fed0> into JSON 
+django.utils.autoreload INFO 2025-10-21 15:24:04,763 autoreload Watching for file changes with StatReloader 
+django.security.DisallowedHost ERROR 2025-10-21 15:25:02,992 exception Invalid HTTP_HOST header: '0.0.0.0:8000'. You may need to add '0.0.0.0' to ALLOWED_HOSTS. 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0.0.0.0:8000'. You may need to add '0.0.0.0' to ALLOWED_HOSTS.
+django.request WARNING 2025-10-21 15:25:02,998 log Bad Request: /ru/shop/ 
+django.utils.autoreload INFO 2025-10-21 15:26:24,931 autoreload Watching for file changes with StatReloader 
+django.security.DisallowedHost ERROR 2025-10-21 15:26:41,427 exception Invalid HTTP_HOST header: '0.0.0.0:8000'. You may need to add '0.0.0.0' to ALLOWED_HOSTS. 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0.0.0.0:8000'. You may need to add '0.0.0.0' to ALLOWED_HOSTS.
+django.request WARNING 2025-10-21 15:26:41,431 log Bad Request: /ru/shop/ 
+django.security.DisallowedHost ERROR 2025-10-21 15:26:45,616 exception Invalid HTTP_HOST header: '0.0.0.0:8000'. You may need to add '0.0.0.0' to ALLOWED_HOSTS. 
+Traceback (most recent call last):
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/deensy/PycharmProjects/skillbox/Django_Cache/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0.0.0.0:8000'. You may need to add '0.0.0.0' to ALLOWED_HOSTS.
+django.request WARNING 2025-10-21 15:26:45,618 log Bad Request: /ru/admin 

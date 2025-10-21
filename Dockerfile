@@ -4,11 +4,10 @@ ENV PYTHONUNBUFFERED=1
 
 WORKDIR  /var/django-app
 
-COPY requirements.txt requirements.txt
-
-RUN pip install --upgrade pip
-
-RUN pip install -r requirements.txt
+RUN pip install --upgrade pip "poetry==2.2.1"
+RUN poetry config virtualenvs.create false --local
+COPY pyproject.toml poetry.lock ./
+RUN poetry install --no-root
 
 COPY mysite .
 
