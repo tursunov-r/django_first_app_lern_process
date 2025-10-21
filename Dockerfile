@@ -2,7 +2,7 @@ FROM python:3.13
 
 ENV PYTHONUNBUFFERED=1
 
-WORKDIR /var/django-app
+WORKDIR  /var/django-app
 
 COPY requirements.txt requirements.txt
 

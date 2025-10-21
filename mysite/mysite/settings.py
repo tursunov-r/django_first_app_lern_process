@@ -37,7 +37,10 @@ SECRET_KEY = getenv(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = getenv("DJANGO_DEBUG", "1") == 1
 
-ALLOWED_HOSTS = ["0.0.0.0", "127.0.0.1", "172.18.0.1"] + getenv("DJANGO_ALLOWED_HOSTS", "").split(",")
+import os
+
+allowed_hosts_env = os.getenv("DJANGO_ALLOWED_HOSTS", "")
+ALLOWED_HOSTS = ["127.0.0.1", "localhost"] + [h.strip() for h in allowed_hosts_env.split(",") if h.strip()]
 INTERNAL_IPS = ["127.0.0.1", "172.17.0.1"]
 
 if DEBUG:
