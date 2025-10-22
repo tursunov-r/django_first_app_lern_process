@@ -14,5 +14,7 @@ COPY mysite .
 
 # Собираем статику перед запуском Gunicorn
 RUN python manage.py collectstatic --noinput
+# Мигрируем базу данных
+RUN python manage.py migrate
 
 CMD ["gunicorn", "mysite.wsgi:application", "--bind", "0.0.0.0:8000"]
